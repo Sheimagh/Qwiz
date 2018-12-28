@@ -16,4 +16,4 @@
 * On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
 
 
-<img src="assets/images/1.png">
+<img src="assets/images/1.PNG">

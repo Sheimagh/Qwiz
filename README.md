@@ -15,5 +15,4 @@
 
 * On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
 
-
-![image](https://github.com/Sheimagh/Qwiz/edit/master/assets/1.png)
+[https://github.com/Sheimagh/Qwiz/tree/master/assets/images/1.png]

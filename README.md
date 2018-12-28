@@ -2,7 +2,7 @@
 
 https://sheimagh.github.io/Qwiz/
 
-# How it works:
+How it works:
 
 * You'll create a trivia game that shows only one question until the player answers it or their time runs out.
 

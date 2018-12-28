@@ -1,5 +1,9 @@
 # Qwiz
 
+![alt text](screenshots/filename.png "Description goes here")
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 # JavaScript Assignment 2
 
 ### Overview

@@ -115,7 +115,7 @@ $(document).ready(function() {
 	function generateWin() {
 		correct++;
 		var correctAnswerText = "<p class='correctText text-center'>CORRECT!</p>";
-		var imgHTML = "<img class='center-block imgCorrect' src='assets/images/correct.png'>";
+		var imgHTML = "<img class='center-block imgCorrect' src='assets/images/Correct.png'>";
 		gameHTML = correctAnswerText + imgHTML;
 		$(".mainArea").html(gameHTML);
 		setTimeout(nextDisplay, 3000);  
